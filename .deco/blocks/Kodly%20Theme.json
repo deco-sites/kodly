@@ -1,0 +1,60 @@
+{
+  "__resolveType": "site/sections/Theme/Theme.tsx",
+  "buttonStyle": {
+    "--border-btn": "1px",
+    "--rounded-btn": "2rem",
+    "--btn-focus-scale": "0.95",
+    "--animation-btn": "0.25s"
+  },
+  "mainColors": {
+    "base-100": "#231f20",
+    "primary": "#66cdb5",
+    "secondary": "#fafafa",
+    "tertiary": "#c9ece4",
+    "success": "#2bff00",
+    "warning": "#ffea00",
+    "error": "#ff0000",
+    "info": "#808080"
+  },
+  "font": {
+    "__resolveType": "website/loaders/fonts/googleFonts.ts",
+    "fonts": [
+      {
+        "variations": [
+          {
+            "weight": "100"
+          },
+          {
+            "weight": "200"
+          },
+          {
+            "weight": "300"
+          },
+          {
+            "weight": "400"
+          },
+          {
+            "weight": "500"
+          },
+          {
+            "weight": "600"
+          },
+          {
+            "weight": "700"
+          },
+          {
+            "weight": "800"
+          },
+          {
+            "weight": "900"
+          }
+        ],
+        "family": "Poppins"
+      }
+    ]
+  },
+  "complementaryColors": {
+    "base-200": "#000000",
+    "base-300": "#000000"
+  }
+}
